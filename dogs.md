@@ -6,3 +6,4 @@
 6. Poodles
 7. Chihuahuas
 8. Alaskan Malamute
+9. Rottweiler
